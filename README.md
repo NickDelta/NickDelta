@@ -1,4 +1,4 @@
-<b> Hi, I'm Nick Dimitrakopoulos. I'm 20 years old, an undergraduate student at Harokopio University of Athens and have experience in building back-end apps with focus on Java.
+<b> Hi, I'm Nick Dimitrakopoulos. I'm 21 years old, an undergraduate student at Harokopio University of Athens and have experience in building back-end apps with focus on Java.
   
 Currently, I'm exploring various technologies to decide what I want to do in my professional career. Whatever nice I learn, I will surely showcase it here :) 
 </b>
