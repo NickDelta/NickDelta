@@ -1,16 +1,3 @@
-<b>
-  <p>Hi, I'm Nick Dimitrakopoulos. I'm 21 years old, an undergraduate student at Harokopio University of Athens and have experience in building back-end apps with focus on Java.</p>
-  <p>Currently, I'm exploring various technologies to decide what I want to do in my professional career. Whatever nice I learn, I will surely showcase it here :)</p> 
-</b>
-<a href="https://github.com/nickdelta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nickdelta&custom_title=My%20GitHub%20Stats:&include_all_commits=true&show_icons=true"/>
-</a>
-<a href="https://github.com/nickdelta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickdelta&hide=html&langs_count=8&layout=compact" />
-</a>
-
-<br>
-
 ### Find Me On:
 
 <p>
